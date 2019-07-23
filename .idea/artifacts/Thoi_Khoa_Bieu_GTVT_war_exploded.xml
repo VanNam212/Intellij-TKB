@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Thoi_Khoa_Bieu_GTVT:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Thoi_Khoa_Bieu_GTVT_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Thoi_Khoa_Bieu_GTVT/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Thoi_Khoa_Bieu_GTVT" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
